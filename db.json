@@ -1,0 +1,48 @@
+{
+  "seller": [
+    {
+      "name": "mrityunjay",
+      "email": "abc",
+      "password": "abc",
+      "id": 1
+    },
+    {
+      "name": "Mrityunjay Dixit",
+      "password": "kash",
+      "email": "123@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "abck",
+      "password": "!@#456",
+      "email": "dixi@test.in",
+      "id": 3
+    },
+    {
+      "name": "Mrityunjay Dixit",
+      "password": "abc",
+      "email": "abc@gmail.com",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "nokia",
+      "price": 2000,
+      "color": "black",
+      "category": "Mobile",
+      "description": "Simple keypad Phone with dual SIM",
+      "image": "https://img4.gadgetsnow.com/gd/images/products/additional/original/G363353_View_1/mobiles/feature-phones/nokia-105-single-sim-2022-charcoal-4-mb-.jpg",
+      "id": 1
+    },
+    {
+      "name": "Mi",
+      "price": 10000,
+      "color": "blue",
+      "category": "Smart Phone",
+      "description": "Dual sim 4G 48MP Camera",
+      "image": "https://global.appmifile.com/webfile/globalimg/in/cms/B0DEB42E-A518-ADC6-3CD9-A686A5B27FD0.jpg",
+      "id": 2
+    }
+  ]
+}

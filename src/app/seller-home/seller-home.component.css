@@ -1,0 +1,44 @@
+table{
+    text-align:left;
+    color: blueviolet;
+    border-collapse: collapse;
+}
+
+table td,table th{
+    border: 1px solid blueviolet;
+    padding: 10px;
+    min-height: 160px;
+    min-width: 50px;
+}
+
+img{
+    height: 100px;
+    width: 70px;
+}
+
+.message-p{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom:30px;
+    color: blueviolet;
+}
+
+.heading{
+    text-align: center;
+    color: rgb(151, 123, 123);
+    font-size: 45px;
+    margin-top: 10px;;
+}
+
+.example-button-container {
+    display: flex;
+    justify-content: center;
+    width: 120px;
+  }
+
+   button{
+    border: 0;
+    color: blueviolet;
+    background: transparent;
+    cursor: pointer;
+  }  

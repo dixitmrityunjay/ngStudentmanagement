@@ -1,0 +1,11 @@
+p{
+    color: black;
+}
+
+a{
+    color: rgba(0, 0, 0, 0.615);
+}
+
+a:hover{
+    color: rgb(189, 144, 232);
+}
